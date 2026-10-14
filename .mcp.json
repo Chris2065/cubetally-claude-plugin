@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cubetally": {
+      "type": "http",
+      "url": "https://cubetally.com/mcp"
+    }
+  }
+}

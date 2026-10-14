@@ -1,0 +1,14 @@
+{
+  "name": "cubetally",
+  "version": "1.0.0",
+  "description": "Ask about your CubeTally inventory, jobs, invoices and leads in plain words, and make approved stock counts, new products and draft purchase orders.",
+  "author": {
+    "name": "CubeTally",
+    "email": "info@cubetally.com",
+    "url": "https://cubetally.com"
+  },
+  "homepage": "https://cubetally.com/developers/docs#automation-connections",
+  "repository": "https://github.com/Chris2065/cubetally-claude-plugin",
+  "license": "MIT",
+  "keywords": ["inventory", "field service", "invoices", "work orders", "small business"]
+}
