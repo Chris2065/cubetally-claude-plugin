@@ -36,7 +36,7 @@ The plugin sends requests only to `https://cubetally.com`, the CubeTally service
 - Privacy policy: https://cubetally.com/privacy
 - Terms: https://cubetally.com/terms
 - Documentation: https://cubetally.com/developers/docs#automation-connections
-- Support: info@cubetally.com
+- Support: https://cubetally.com/contact or info@cubetally.com
 
 ## License
 
